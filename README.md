@@ -2,10 +2,10 @@
 
 Hello! I’m Adrienne Lloren, a data analyst with a knack for translating complex datasets into actionable insights. Having recently earned my Data Science Certificate from the University of Toronto, I’m eager to apply my skills to real-world challenges.
 
-One of my recent projects, the [Pharmaceutical Drug Spending Analysis](https://github.com/amlloren/Pharma-Spending-by-Countries), allowed me to explore decades of global spending data using Python and Tableau. This project highlights my technical expertise in multiple linear regression, clustering, and forecasting, as well as my commitment to delivering polished and impactful results. You can explore this project further by watching my summary video [here](https://drive.google.com/file/d/1ASvZEvJ-3i7NKkFGaMeeubGUNcCa5nAl/view).
+One of my recent projects, the [Pharmaceutical Drug Spending Analysis](https://github.com/amlloren/Pharma-Spending-by-Countries), allowed me to explore decades of global spending data using Python and Tableau. This project highlights my technical expertise in data cleaning, regression, clustering, forecasting and data visualization as well as my commitment to delivering polished and impactful results. You can explore this project further by watching my summary video [here](https://drive.google.com/file/d/1ASvZEvJ-3i7NKkFGaMeeubGUNcCa5nAl/view).
 
 ####  🔭 I’m currently working on ...
-* Expanding my [Data Visualization Assignment 4](https://github.com/amlloren/visualization/blob/assignment-4/02_activities/assignments/assignment_4/3_tableau_viz.md) (from my Data Science Certification) into a comprehensive Tableau Public dashboard.
+* Expanding my [Data Visualization Assignment 4](https://github.com/amlloren/visualization/blob/assignment-4/02_activities/assignments/assignment_4/3_tableau_viz.md) from my Data Science Certification into a comprehensive Tableau Public dashboard.
 
 #### 🌱 I’m currently learning ...
 * Intermediate SQL course through Data Camp.
