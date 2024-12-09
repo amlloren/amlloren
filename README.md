@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+Hello! I’m Adrienne Lloren, a data analyst with a knack for translating complex datasets into actionable insights. Having recently earned my Data Science Certificate from the University of Toronto, I’m eager to apply my skills to real-world challenges.
+
+One of my recent projects, the [Pharmaceutical Drug Spending Analysis](https://github.com/amlloren/Pharma-Spending-by-Countries), allowed me to explore decades of global spending data using Python and Tableau. This project highlights my technical expertise in multiple linear regression, clustering, and forecasting, as well as my commitment to delivering polished and impactful results. You can explore this project further by watching my summary video [here](https://drive.google.com/file/d/1ASvZEvJ-3i7NKkFGaMeeubGUNcCa5nAl/view).
+
+Beyond data, I’m also a songwriter, independent music produce and visual storyteller. I thrive in roles that let me combine analytical rigor with creativity, whether it’s developing dashboards, designing slide decks, or simplifying technical insights for broader audiences.
+
+If you share a passion for mental health and wellness or storytelling with data, let’s connect—I’m always looking for new projects to tackle and meaningful stories to tell.
+
+🔭 I’m currently working on ...
+* Expanding my [Data Visualization Assignment 4](https://github.com/amlloren/visualization/blob/assignment-4/02_activities/assignments/assignment_4/3_tableau_viz.md) (from my Data Science Certification) into a comprehensive Tableau Public dashboard.
+
+🌱 I’m currently learning ...
+* Intermediate SQL course through Data Camp.
+* Tableau Fundamentals Skill Track through Data Camp.
+
 <!--
 **amlloren/amlloren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
