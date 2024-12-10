@@ -11,9 +11,9 @@ One of my recent projects, the [Pharmaceutical Drug Spending Analysis](https://g
 * Associate Data Analyst in SQL Career Track offered by [Datacamp](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql).
 * Tableau Fundamentals Skill Track offered by [Datacamp](https://app.datacamp.com/learn/skill-tracks/tableau-fundamentals).
 
-Beyond data, I’m also a songwriter, independent music producer and visual storyteller. I thrive in roles that let me combine analytical rigor with creativity, whether it’s developing dashboards, designing slide decks, or simplifying technical insights for broader audiences.
+Beyond data, I’m also a songwriter, independent music producer, visual storyteller and mental wellness enthusiast. I thrive in roles that let me combine analytical rigor with creativity, whether it’s developing dashboards, designing slide decks, or simplifying technical insights for broader audiences.
 
-If you share a passion for mental health/wellness or storytelling with data, let’s connect —- I’m always looking for new projects to tackle and meaningful stories to tell! 
+If you share a passion for storytelling with data, let’s connect —- I’m always looking for new projects to tackle and meaningful stories to tell! 
 
 <!--
 **amlloren/amlloren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
