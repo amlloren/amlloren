@@ -8,8 +8,8 @@ One of my recent projects, the [Pharmaceutical Drug Spending Analysis](https://g
 * Expanding my [Data Visualization Assignment 4](https://github.com/amlloren/visualization/blob/assignment-4/02_activities/assignments/assignment_4/3_tableau_viz.md) from my Data Science Certification into a comprehensive Tableau Public dashboard.
 
 #### 🌱 I’m currently learning ...
-* Intermediate SQL course through Data Camp.
-* Tableau Fundamentals Skill Track through Data Camp.
+* Associate Data Analyst in SQL Career Track offered by [Datacamp](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql).
+* Tableau Fundamentals Skill Track offered by [Datacamp](https://app.datacamp.com/learn/skill-tracks/tableau-fundamentals).
 
 Beyond data, I’m also a songwriter, independent music producer and visual storyteller. I thrive in roles that let me combine analytical rigor with creativity, whether it’s developing dashboards, designing slide decks, or simplifying technical insights for broader audiences.
 
