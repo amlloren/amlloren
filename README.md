@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Adrienne Lloren, a data analyst with a knack for translating complex datasets into actionable insights. Having recently earned my Data Science Certificate from the University of Toronto, I’m eager to apply my skills to real-world challenges.
+I’m Adrienne Lloren, a data analyst with a knack for translating complex datasets into actionable insights. Having recently earned my Data Science Certificate from the University of Toronto, I’m eager to apply my skills to real-world challenges. I thrive in roles that let me combine analytical rigor with creativity, whether it’s developing dashboards, designing slide decks, or simplifying technical insights for broader audiences.
 
 One of my recent projects, the [Pharmaceutical Drug Spending Analysis](https://github.com/amlloren/Pharma-Spending-by-Countries), allowed me to explore decades of global spending data using Python and Tableau. This project highlights my technical expertise in data cleaning, regression, clustering, forecasting and data visualization as well as my commitment to delivering polished and impactful results. You can explore this project further by watching my summary video [here](https://drive.google.com/file/d/1ASvZEvJ-3i7NKkFGaMeeubGUNcCa5nAl/view).
 
@@ -11,9 +11,7 @@ One of my recent projects, the [Pharmaceutical Drug Spending Analysis](https://g
 * Associate Data Analyst in SQL Career Track offered by [Datacamp](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql).
 * Tableau Fundamentals Skill Track offered by [Datacamp](https://app.datacamp.com/learn/skill-tracks/tableau-fundamentals).
 
-Beyond data, I’m also a songwriter, independent music producer, visual storyteller and mental wellness enthusiast. I thrive in roles that let me combine analytical rigor with creativity, whether it’s developing dashboards, designing slide decks, or simplifying technical insights for broader audiences.
-
-If you share a passion for storytelling with data, let’s connect —- I’m always looking for new projects to tackle and meaningful stories to tell! 
+Beyond data, I’m also a songwriter, independent music producer, visual storyteller and mental wellness enthusiast. If you share a passion for storytelling with data, let’s connect —- I’m always looking for new projects to tackle and meaningful stories to tell! 
 
 <!--
 **amlloren/amlloren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
