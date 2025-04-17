@@ -6,6 +6,7 @@ One of my recent projects, the [Pharmaceutical Drug Spending Analysis](https://g
 
 ####  🔭 I’m currently working on ...
 * Music & Mental Health Survey - Data Cleaning, Data Analysis and Data Visualization.
+* Social Media Influencers (2022) - Data Cleaning, Data Analysis and Data Visualization.
 * Expanding my [Data Visualization Assignment 4](https://github.com/amlloren/ontario_public_sector_salary) from my Data Science Certification into a comprehensive Tableau Public dashboard.
 
 #### 🌱 I’m currently learning ...
